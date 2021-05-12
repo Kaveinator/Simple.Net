@@ -1,6 +1,12 @@
 MIT License
 
-Copyright (c) 2020 Kaveman & Tom Weiland
+REFRENCES
+ RevenantX/LiteNetLib - Inspired me to do this (but for TCP), quite a few stuff is taken from it
+  => https://github.com/RevenantX/LiteNetLib
+ Bunny83/SimpleJSON - Still as client/user data
+  => https://github.com/Bunny83/SimpleJSON
+
+Copyright (c) 2021 Kaveman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

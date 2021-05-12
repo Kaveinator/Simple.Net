@@ -11,8 +11,8 @@ namespace Simple.Net.Server {
         public int clientId { get; protected set; }
         static int ClientIdCounter = 0;
         public Timer heartBeat;
-        long pingId = 0;
-        long lastResponsesPingId = 0;
+        public long pingId = 0;
+        public long lastResponsesPingId = 0;
 
         public Socket socket { get; protected set; }
         public JSONNode data = new JSONObject();
